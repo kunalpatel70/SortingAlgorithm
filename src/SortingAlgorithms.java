@@ -6,4 +6,9 @@ public enum SortingAlgorithms {
 	InsertionSort,
 	BubbleSort,
 	HeapSort
+	/* Future algorithms that needs to be implemented
+	 * CountingSort,
+	 * RadixSort,
+	 * TreeSort
+	 */
 }
